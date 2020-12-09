@@ -2,7 +2,7 @@
 ITCS210_Web Programming
 
 ## ANTHROPOLOGICAL CULTURE MUSEUM
-This is a group project.
+This is a group project that has 3 members.
 
 Anthropology Cultural Museum was firstly opened by Her Royal Highness
 Princess Maha Chakri Sirindhorn on 24th of December in 2001.
